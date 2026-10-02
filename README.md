@@ -1,6 +1,6 @@
-# BarterSkills
+## SkillLoop
 
-BarterSkills is a full-stack learning platform for sharing and discovering video content. Users can create accounts, upload and watch videos, interact through comments and likes, and message one another. The app also includes AI-powered features and premium subscriptions.
+SkillLoop is a full-stack learning platform for sharing and discovering video content. Users can create accounts, upload and watch videos, interact through comments and likes, and message one another. The app also includes AI-powered features and premium subscriptions.
 
 ## Features
 
