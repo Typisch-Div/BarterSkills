@@ -1,7 +1,7 @@
 {
-  "name": "chai-backend",
+  "name": "barterskills-backend",
   "version": "1.0.0",
-  "description": "a backend at chai aur code channel - youtube",
+  "description": "Backend API for BarterSkills video sharing and creator platform",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,10 @@
   "keywords": [
     "javascript",
     "backend",
-    "chai"
+    "barterskills",
+    "video-platform"
   ],
-  "author": "Hitesh Choudhary",
+  "author": "Divanshu Sharma",
   "license": "ISC",
   "devDependencies": {
     "@ljharb/tsconfig": "^0.3.2",

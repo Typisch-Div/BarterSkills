@@ -33,7 +33,7 @@ const socialLinks = [
   {
     icon: GitHub,
     label: "GitHub",
-    href: "https://github.com/VviratT/BarterSkills",
+    href: "https://github.com/Typisch-Div",
     color: "#333",
   },
   {
@@ -45,7 +45,7 @@ const socialLinks = [
   {
     icon: LinkedIn,
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/dhananjay-borban-a18515250/",
+    href: "https://www.linkedin.com/in/divanshusharma-dev/",
     color: "#0077B5",
   },
   {
@@ -59,14 +59,14 @@ const socialLinks = [
 const contactInfo = [
   {
     icon: Email,
-    label: "basuyadav1411@gmail.com",
-    href: "mailto:basuyadav1411@gmail.com",
+    label: "sdivanshu558@gmail.com",
+    href: "mailto:sdivanshu558@gmail.com",
   },
-  { icon: Phone, label: "+91 9770029101", href: "tel:+919770029101" },
+  { icon: Phone, label: "+91 7888321184", href: "tel:+917888321184" },
   {
     icon: LocationOn,
-    label: "MANIT Bhopal",
-    href: "https://share.google/wTJWy9tz3tWZGQo0T",
+    label: "India",
+    href: "https://github.com/Typisch-Div",
   },
 ];
 
@@ -230,7 +230,7 @@ export default function Footer() {
           }}
         >
           <Typography variant="body2" color="text.secondary" textAlign="center">
-            © {new Date().getFullYear()} BarterSkills. All rights reserved.
+            © {new Date().getFullYear()} BarterSkills. Developed by Divanshu Sharma. All rights reserved.
           </Typography>
 
           <Stack

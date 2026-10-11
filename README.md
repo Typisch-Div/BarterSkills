@@ -41,6 +41,8 @@ npm install
 
 Configure the environment variables required by the backend and frontend before starting the app. Keep secrets in local environment files and do not commit them.
 
+## Running the app
+
 Start the backend from `BarterSkillsBackend`:
 
 ```bash
@@ -54,3 +56,13 @@ npm run dev
 ```
 
 The frontend development server will print its local URL in the terminal.
+
+## Owner & Developer
+
+- **Name:** Divanshu Sharma
+- **Email:** [sdivanshu558@gmail.com](mailto:sdivanshu558@gmail.com)
+- **Phone:** +91 7888321184
+- **GitHub:** [https://github.com/Typisch-Div](https://github.com/Typisch-Div)
+- **LinkedIn:** [https://www.linkedin.com/in/divanshusharma-dev/](https://www.linkedin.com/in/divanshusharma-dev/)
+- **LeetCode:** [https://leetcode.com/u/TypischDiv/](https://leetcode.com/u/TypischDiv/)
+
